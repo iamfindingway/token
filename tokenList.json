@@ -2,7 +2,7 @@
   "31337": [
     {
       "tokenName": "TKM",
-      "iconUrl": require('@/assets/images/tokens/TKM.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081910960.png",
       "chainId": "1",
       "contractAddress": "0x3D1f3e8009799ACe332Ea857858E9c5d553ee2E5",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -49,7 +49,7 @@
   "50002": [
     {
       "tokenName": "TKM",
-      "iconUrl": require('@/assets/images/tokens/TKM.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081910960.png",
       "chainId": "1",
       "contractAddress": "0x3D1f3e8009799ACe332Ea857858E9c5d553ee2E5",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -58,7 +58,7 @@
     },
     {
       "tokenName": "name",
-      "iconUrl": require('@/assets/images/tokens/60001/JIN.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082192020.png",
       "chainId": "1",
       "contractAddress": "0x2A74d90C07162453f65d84CB1DeA2Ef11A3ac52D",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -67,7 +67,7 @@
     },
     {
       "tokenName": "OPPO",
-      "iconUrl": require('@/assets/images/tokens/60001/YIN.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082289082.png",
       "chainId": "1",
       "contractAddress": "0x3B55Be7939570c52aa772C978c4A62db23B22c17",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -78,7 +78,7 @@
   "60001": [
     {
       "tokenName": "TKM",
-      "iconUrl": require('@/assets/images/tokens/TKM.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081910960.png",
       "chainId": "1",
       "contractAddress": "0x3D1f3e8009799ACe332Ea857858E9c5d553ee2E5",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -87,7 +87,7 @@
     },
     {
       "tokenName": "USDT",
-      "iconUrl": require('@/assets/images/tokens/usdt.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082065202.png",
       "chainId": "1",
       "contractAddress": "0xaa9a587ca7686f18fb1474c085706af8986bca84",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -96,7 +96,7 @@
     },
     {
       "tokenName": "FC",
-      "iconUrl": require('@/assets/images/tokens/60001/FRUIT.jpeg'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082147425.jpeg",
       "chainId": "1",
       "contractAddress": "0xaacce8d776e5309e07A57E2d910e5F5F1fe15142",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -114,7 +114,7 @@
     },
     {
       "tokenName": "A",
-      "iconUrl": require('@/assets/images/tokens/60001/JIN.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082192020.png",
       "chainId": "1",
       "contractAddress": "0x71Ff1560d7D529b8e25244c44087E74Fec4b0e45",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -123,7 +123,7 @@
     },
     {
       "tokenName": "B",
-      "iconUrl": require('@/assets/images/tokens/60001/YIN.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082289082.png",
       "chainId": "1",
       "contractAddress": "0xE778b21De62B4110Ddc6a638f43629Fc990A2f36",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -132,7 +132,7 @@
     },
     {
       "tokenName": "C",
-      "iconUrl": require('@/assets/images/tokens/60001/TIE.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082269654.png",
       "chainId": "1",
       "contractAddress": "0x31bAA94227d2f9d0EEAa7C62b9FF0dcDd348bc40",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -141,7 +141,7 @@
     },
     {
       "tokenName": "D",
-      "iconUrl": require('@/assets/images/tokens/60001/MU.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082248497.png",
       "chainId": "1",
       "contractAddress": "0xB74C880Af3Ff0B0963c11c2C1653a4dc505EA6b1",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -150,7 +150,7 @@
     },
     {
       "tokenName": "CPE",
-      "iconUrl": require('@/assets/images/tokens/60001/CPE.jpeg'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082125495.jpeg",
       "chainId": "1",
       "contractAddress": "0x107fD654fF953198e2361836F7F2E4C96A54741a",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -159,7 +159,7 @@
     },
     {
       "tokenName": "KING",
-      "iconUrl": require('@/assets/images/tokens/60001/KING.jpeg'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082228825.jpeg",
       "chainId": "1",
       "contractAddress": "0x4471b9CfD19D6869B22125a1004C928deD1762be",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -171,7 +171,7 @@
   "60103": [
     {
       "tokenName": "TKM",
-      "iconUrl": require('@/assets/images/tokens/TKM.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081910960.png",
       "chainId": "103",
       "contractAddress": "0x09d2e7689b2bb4b181319aba83acb5c05784da9f",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -230,7 +230,7 @@
   "70001": [
     {
       "tokenName": "TKM",
-      "iconUrl": require('@/assets/images/tokens/TKM.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081910960.png",
       "chainId": "70001",
       "contractAddress": "0x3D1f3e8009799ACe332Ea857858E9c5d553ee2E5",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -239,7 +239,7 @@
     },
     {
       "tokenName": "TUSDT",
-      "iconUrl": require('@/assets/images/tokens/usdt.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082065202.png",
       "chainId": "70001",
       "contractAddress": "0x47Ba4471046fC0442078CF1519924cb205F02c7a",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -248,7 +248,7 @@
     },
     {
       "tokenName": "TSS",
-      "iconUrl": require('@/assets/images/tokens/TSS.jpeg'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081230051.png",
       "chainId": "70001",
       "contractAddress": "0x481Cf6c74b7b6aa1393abb6EaF8b530E5fa15f9f",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -260,7 +260,7 @@
   "70103": [
     {
       "tokenName": "TKM",
-      "iconUrl": require('@/assets/images/tokens/TKM.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081910960.png",
       "chainId": "70103",
       "contractAddress": "0x3D1f3e8009799ACe332Ea857858E9c5d553ee2E5",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -269,7 +269,7 @@
     },
     {
       "tokenName": "AOC",
-      "iconUrl": require('@/assets/images/tokens/AOC.jpg'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081879327.jpeg",
       "chainId": "70103",
       "contractAddress": "0xbb4a82cb62f0ec75c9dbe9857fae98d012efc889",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
@@ -278,7 +278,7 @@
     },
     {
       "tokenName": "XTX",
-      "iconUrl": require('@/assets/images/tokens/XTX.png'),
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666082101680.png",
       "chainId": "70103",
       "contractAddress": "0x0bEA38b9d88A3aD5107Cde4E2CA625717740e557",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
