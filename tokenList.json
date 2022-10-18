@@ -105,7 +105,7 @@
     },
     {
       "tokenName": "TSS",
-      "iconUrl": 'https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081230051.png',
+      "iconUrl": "https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1666081230051.png",
       "chainId": "1",
       "contractAddress": "0xaB4BC469dBC98F2d2260f44A8f066cf8c7F206ec",
       "accountAddress": "0x7ee1cc7c95c6e741737b1340439e15f244f159dd",
